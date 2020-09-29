@@ -1,5 +1,5 @@
 # DevoirMaison
-Under terminal run the following command line to run the project :
+Under terminal run the following command line to run the project : <br>
 > java src/main/java/ListOperations.java $arg0 $arg1
 $arg0 refers to the elements of the list
 $arg1 refers to the max size of the sub lists
